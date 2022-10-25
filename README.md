@@ -8,6 +8,6 @@ The goal of this project was to refactor the existing code base to comply with a
 https://user-images.githubusercontent.com/114003376/197676280-18b073eb-f29f-4770-87a2-d4fcb4da1a0c.mov
 
 
- 
+Link to deployed page https://veektur123.github.io/First-challenge-/ 
 Refactored by Victor Rivera 
 
